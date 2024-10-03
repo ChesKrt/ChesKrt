@@ -11,3 +11,5 @@ Manejo el idioma **Ingles** a un nivel _intermedio_ y el idioma **Japones** a un
 [Twitter](https://x.com/devchskrtz)
 
 [Itch.io](https://devcheskurtz.itch.io)
+
+![Banner](/Banner1.png)
